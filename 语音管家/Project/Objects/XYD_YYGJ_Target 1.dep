@@ -1,0 +1,501 @@
+Dependencies for Project 'XYD_YYGJ', Target 'Target 1': (DO NOT MODIFY !)
+F (..\CMSIS\core_cm3.c)(0x49D96948)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (..\User\stm32f10x_it.c)(0x5989930A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (..\User\stm32f10x_it.h)(0x59858DFA)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\User\system_stm32f10x.c)(0x59954980)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\User\main.c)(0x5CF76114)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\delay.c)(0x5CF3C5D4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\User\API\LED.c)(0x5CF2916A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\User\API\usart.c)(0x5CF2969F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\Startup\startup_stm32f10x_hd.s)(0x5CF5287D)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (..\LIb\SRC\misc.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+F (..\LIb\SRC\stm32f10x_exti.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_exti.o --omf_browse .\objects\stm32f10x_exti.crf --depend .\objects\stm32f10x_exti.d)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\LIb\SRC\stm32f10x_gpio.c)(0x4F80E8E4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\LIb\SRC\stm32f10x_rcc.c)(0x5CF28BFF)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\LIb\SRC\stm32f10x_spi.c)(0x5B076E08)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_spi.o --omf_browse .\objects\stm32f10x_spi.crf --depend .\objects\stm32f10x_spi.d)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\LIb\SRC\stm32f10x_usart.c)(0x4C237848)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+F (..\Lcd\Lcd_Driver.c)(0x5CF4C0F2)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\lcd_driver.o --omf_browse .\objects\lcd_driver.crf --depend .\objects\lcd_driver.d)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+F (..\Lcd\GUI.c)(0x5CF51233)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\gui.o --omf_browse .\objects\gui.crf --depend .\objects\gui.d)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\Lcd\font.h)(0x5CF51160)
+F (..\User\API\ui.c)(0x5CF4F054)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ui.o --omf_browse .\objects\ui.crf --depend .\objects\ui.d)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\tu1.h)(0x5CF4F016)
+F (..\User\API\LD_Config.c)(0x5CF3CE6C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ld_config.o --omf_browse .\objects\ld_config.crf --depend .\objects\ld_config.d)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\LD_API.c)(0x5CF3CC3E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ld_api.o --omf_browse .\objects\ld_api.crf --depend .\objects\ld_api.d)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\LD_Main.c)(0x5CF52E2B)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ld_main.o --omf_browse .\objects\ld_main.crf --depend .\objects\ld_main.d)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\SD_Config.c)(0x5CF34B39)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\sd_config.o --omf_browse .\objects\sd_config.crf --depend .\objects\sd_config.d)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\SD_Driver.c)(0x5CF34B03)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\sd_driver.o --omf_browse .\objects\sd_driver.crf --depend .\objects\sd_driver.d)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\fatfs_app\fatfs_app.c)(0x5CF52063)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\fatfs_app.o --omf_browse .\objects\fatfs_app.crf --depend .\objects\fatfs_app.d)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\User\API\fatfs_test.c)(0x5CF52879)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\fatfs_test.o --omf_browse .\objects\fatfs_test.crf --depend .\objects\fatfs_test.d)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+F (..\source\diskio.c)(0x5CF3602D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\diskio.o --omf_browse .\objects\diskio.crf --depend .\objects\diskio.d)
+I (..\source\diskio.h)(0x5B1E5867)
+I (..\source\integer.h)(0x5AC89335)
+I (..\User\main.h)(0x5CF52310)
+I (..\User\stm32f10x.h)(0x5CF28BC6)
+I (..\CMSIS\core_cm3.h)(0x49D96948)
+I (H:\keli 5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (..\User\system_stm32f10x.h)(0x4D783CAA)
+I (..\User\stm32f10x_conf.h)(0x4F802D78)
+I (..\LIb\inc\stm32f10x_exti.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_gpio.h)(0x4AA0C56C)
+I (..\LIb\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_spi.h)(0x49D9694A)
+I (..\LIb\inc\stm32f10x_usart.h)(0x4D7CA008)
+I (..\LIb\inc\misc.h)(0x49D9694A)
+I (..\User\API\delay.h)(0x5CF3C5E4)
+I (..\User\API\LED.h)(0x5CF2923D)
+I (..\User\API\IO_BIT.h)(0x5CF34901)
+I (..\User\API\usart.h)(0x5CF29458)
+I (H:\keli 5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (..\Lcd\Lcd_Driver.h)(0x5C11086C)
+I (..\Lcd\GUI.h)(0x5CF4BF35)
+I (..\User\API\ui.h)(0x5CF4EED3)
+I (..\User\API\LD_Config.h)(0x5CF4EDB1)
+I (..\User\API\LD_API.h)(0x5CF3CB54)
+I (..\User\API\LD_Main.h)(0x5CF3C699)
+I (..\User\API\SD_Config.h)(0x5CF34938)
+I (..\User\API\SD_Driver.h)(0x5CF34AF1)
+I (..\fatfs_app\fatfs_app.h)(0x5CF3C1DD)
+I (H:\keli 5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (H:\keli 5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\User\API\fatfs_test.h)(0x5CF526C3)
+F (..\source\ff.c)(0x5AC89335)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ff.o --omf_browse .\objects\ff.crf --depend .\objects\ff.d)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+I (..\source\diskio.h)(0x5B1E5867)
+F (..\source\ffsystem.c)(0x5AC89335)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ffsystem.o --omf_browse .\objects\ffsystem.crf --depend .\objects\ffsystem.d)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+F (..\source\ffunicode.c)(0x5AC89335)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\ffunicode.o --omf_browse .\objects\ffunicode.crf --depend .\objects\ffunicode.d)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
+F (..\fatfs_app\mycc936.c)(0x5B1E52FA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\CMSIS -I ..\User -I ..\User\API -I ..\LIb\inc -I ..\Lcd -I ..\LD_Driver -I ..\fatfs_app -I ..\source-IC:\Users\Administrator\Desktop\语音管家\Project\RTE-I"H:\keli 5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include"-I"H:\keli 5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include"-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\mycc936.o --omf_browse .\objects\mycc936.crf --depend .\objects\mycc936.d)
+I (..\source\ff.h)(0x5AC89335)
+I (..\source\integer.h)(0x5AC89335)
+I (..\source\ffconf.h)(0x5AC89335)
